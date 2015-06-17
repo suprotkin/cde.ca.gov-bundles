@@ -1,0 +1,19 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+CDS,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Name,59,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda,Alameda County Office of Education,FAME Public Charter,Envision Academy for Arts & Technology,Alameda County Juvenile Hall/Court,Alameda County Community,Alameda County Opportunity,California School for the Deaf-Fremont,Alameda City Unified,Alameda Science and Technology Institute,Alameda High,Alameda Community Learning Center,Bay Area School of Enterprise,Encinal High,Island High (Continuation),Albany City Unified,MacGregor High (Continuation),Albany High,Berkeley Unified"
+AggLevel,1,<type 'str'>,False,5001,0,0,4967,0,0,34,0,"T,O,D,S"
+DFC,1,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"N,Y"
+Subgroup,3,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"All,MIG,FEM,MAL,EL,SD,SE"
+Subgrouptype,3,<type 'str'>,False,5001,3556,0,1445,0,0,0,0,All
+NumCohort,6,<type 'str'>,False,5001,3113,0,1888,0,0,0,0,*
+NumGraduates,6,<type 'str'>,False,5001,2859,0,2142,0,0,0,0,*
+Cohort Graduation Rate,6,<type 'float'>,False,5001,1872,3129,0,0,0,0,0,
+NumDropouts,5,<type 'str'>,False,5001,1520,0,3481,0,0,0,0,*
+Cohort Dropout Rate,6,<type 'float'>,False,5001,2110,2891,0,0,0,0,0,
+NumSpecialEducation,4,<type 'str'>,False,5001,214,0,4787,0,0,0,0,*
+Special Ed Completers Rate,5,<type 'float'>,False,5001,4023,978,0,0,0,0,0,
+NumStillEnrolled,5,<type 'str'>,False,5001,912,0,4089,0,0,0,0,*
+Still Enrolled Rate,6,<type 'float'>,False,5001,2582,2419,0,0,0,0,0,
+NumGED,4,<type 'str'>,False,5001,142,0,4859,0,0,0,0,*
+GED Rate,6,<type 'float'>,False,5001,4261,740,0,0,0,0,0,
+Year,4,<type 'int'>,False,5001,5001,0,0,0,0,0,0,

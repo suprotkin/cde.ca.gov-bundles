@@ -1,0 +1,19 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+CDS,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Name,67,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda,Alameda County Office of Education,FAME Public Charter,Envision Academy for Arts & Technology,Aspire California College Preparatory Academy,Alameda County Juvenile Hall/Court,Alameda County Community,Oroville High,Prospect High (Continuation),Paradise Unified,Paradise eLearning Academy,Ridgeview High (Continuation),Paradise Senior High,Hometech Charter,Gridley Unified,Esperanza High (Continuation),Gridley High,Calaveras,Alameda County Opportunity"
+AggLevel,1,<type 'str'>,False,5001,0,0,4967,0,0,34,0,"T,O,D,S"
+DFC,1,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"N,Y"
+Subgroup,3,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"All,FEM,MAL,SD,EL,SE,MIG"
+Subgrouptype,3,<type 'str'>,False,5001,3662,0,1339,0,0,0,0,All
+NumCohort,6,<type 'str'>,False,5001,2946,0,2055,0,0,0,0,*
+NumGraduates,6,<type 'str'>,False,5001,2723,0,2278,0,0,0,0,*
+Cohort Graduation Rate,6,<type 'float'>,False,5001,2011,2990,0,0,0,0,0,
+NumDropouts,5,<type 'str'>,False,5001,1375,0,3626,0,0,0,0,*
+Cohort Dropout Rate,6,<type 'float'>,False,5001,2324,2677,0,0,0,0,0,
+NumSpecialEducation,4,<type 'str'>,False,5001,255,0,4746,0,0,0,0,*
+Special Ed Completers Rate,6,<type 'float'>,False,5001,3919,1082,0,0,0,0,0,
+NumStillEnrolled,5,<type 'str'>,False,5001,943,0,4058,0,0,0,0,*
+Still Enrolled Rate,6,<type 'float'>,False,5001,2610,2391,0,0,0,0,0,
+NumGED,4,<type 'str'>,False,5001,107,0,4894,0,0,0,0,*
+GED Rate,5,<type 'float'>,False,5001,4497,504,0,0,0,0,0,
+Year,4,<type 'int'>,False,5001,5001,0,0,0,0,0,0,

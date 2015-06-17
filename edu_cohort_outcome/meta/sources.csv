@@ -1,0 +1,6 @@
+name,title,table,segment,time,space,grain,start_line,end_line,comment_lines,header_lines,description,url,ref
+cohort10,,,,2010,California,,1,,,0,data for 2009-10,http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2009-10&cCat=Cohort&cPage=filescohort,
+cohort11,,,,2011,California,,1,,,0,data for 2010-11,http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2010-11&cCat=Cohort&Cpage=filescohort,
+cohort12,,,,2012,California,,1,,,0,data for 2011-12,http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2011-12&cCat=Cohort&Cpage=filescohort,
+cohort13,,,,2013,California,,1,,,0,data for 2012-13,http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2012-13&cCat=Cohort&Cpage=filescohort,
+cohort14,,,,2014,California,,1,,,0,data for 2013-14,http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2013-14&cCat=Cohort&Cpage=filescohort,

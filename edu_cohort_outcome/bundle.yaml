@@ -1,0 +1,63 @@
+about:
+    access: example
+    footnote: null
+    grain: null
+    groups: []
+    license: public
+    processed: null
+    rights: null
+    source: null
+    space: California
+    subject: null
+    summary: California Longitudinal Pupil Achievement Data System (CALPADS) cohort
+        outcome data reported by race/ethnicity, program participation, and gender.
+    tags: []
+    time: 2009/2014
+    title: Education Cohort Outcome Data
+contact_bundle:
+    creator:
+        email: roman.suprotkin@developex.org
+        name: Roman Suprotkin
+        org: ''
+        url: ''
+    maintainer: {}
+contact_source:
+    creator:
+        org: California Department of Education
+        url: http://cde.ca.gov/
+    maintainer: {}
+external_documentation:
+    dataset:
+        description: California Longitudinal Pupil Achievement Data System (CALPADS)
+            cohort outcome data reported by race/ethnicity, program participation,
+            and gender.
+        source: null
+        title: Cohort Outcome Data
+        url: http://www.cde.ca.gov/ds/sd/sd/filescohort.asp
+    documentation:
+        description: The primary documentation file
+        source: null
+        title: Main Documentation
+        url: http://example.com
+    download:
+        description: Web page that links to the source files.
+        source: null
+        title: Download Page
+        url: http://example.com
+identity:
+    bspace: null
+    btime: null
+    dataset: edu_cohort_outcome
+    id: d000002G
+    revision: 1
+    source: cde.ca.gov
+    subset: null
+    type: null
+    variation: null
+    version: 0.0.1
+names:
+    fqname: cde.ca.gov-edu_cohort_outcome-0.0.1~d000002G001
+    name: cde.ca.gov-edu_cohort_outcome
+    vid: d000002G001
+    vname: cde.ca.gov-edu_cohort_outcome-0.0.1
+process: {}
