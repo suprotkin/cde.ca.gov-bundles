@@ -1,18 +1,20 @@
 about:
-    access: null
+    access: example
     footnote: null
     grain: null
     groups: []
-    license: null
+    license: public
     processed: null
     rights: null
     source: null
-    space: null
+    space: California
     subject: null
-    summary: null
+    summary: Downloadable data files for graduates and graduates meeting University
+        of California (UC)/California State University (CSU) entrance requirements
+        by race/ethnic designation and gender by school.
     tags: []
-    time: null
-    title: null
+    time: 1992/2014
+    title: Graduates by Race & Gende
 contact_bundle:
     creator:
         email: roman.suprotkin@developex.org
@@ -27,20 +29,12 @@ contact_source:
     maintainer: {}
 external_documentation:
     dataset:
-        description: Main webpage for the dataset.
+        description: Downloadable data files for graduates and graduates meeting University
+            of California (UC)/California State University (CSU) entrance requirements
+            by race/ethnic designation and gender by school.
         source: null
-        title: Dataset Page
-        url: http://example.com
-    documentation:
-        description: The primary documentation file
-        source: null
-        title: Main Documentation
-        url: http://example.com
-    download:
-        description: Web page that links to the source files.
-        source: null
-        title: Download Page
-        url: http://example.com
+        title: Graduates by Race & Gender
+        url: http://www.cde.ca.gov/ds/sd/sd/filesgrads.asp
 identity:
     bspace: null
     btime: null

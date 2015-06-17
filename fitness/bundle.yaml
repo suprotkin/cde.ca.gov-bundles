@@ -1,18 +1,18 @@
 about:
-    access: null
+    access: example
     footnote: null
     grain: null
     groups: []
-    license: null
+    license: public
     processed: null
     rights: null
     source: null
-    space: null
+    space: California
     subject: null
-    summary: null
+    summary: The physical fitness test (PFT) for students in California schools is the FITNESSGRAM®. The main goal of the test is to help students in starting life-long habits of regular physical activity.
     tags: []
-    time: null
-    title: null
+    time: 1999/2014
+    title: Physical Fitness Test  Results
 contact_bundle:
     creator:
         email: roman.suprotkin@developex.org
@@ -27,34 +27,7 @@ contact_source:
     maintainer: {}
 external_documentation:
     dataset:
-        description: Main webpage for the dataset.
+        description: The physical fitness test (PFT) for students in California schools is the FITNESSGRAM®. The main goal of the test is to help students in starting life-long habits of regular physical activity.
         source: null
-        title: Dataset Page
-        url: http://example.com
-    documentation:
-        description: The primary documentation file
-        source: null
-        title: Main Documentation
-        url: http://example.com
-    download:
-        description: Web page that links to the source files.
-        source: null
-        title: Download Page
-        url: http://example.com
-identity:
-    bspace: null
-    btime: null
-    dataset: fitness
-    id: d000002H
-    revision: 1
-    source: cde.ca.gov
-    subset: null
-    type: null
-    variation: null
-    version: 0.0.1
-names:
-    fqname: cde.ca.gov-fitness-0.0.1~d000002H001
-    name: cde.ca.gov-fitness
-    vid: d000002H001
-    vname: cde.ca.gov-fitness-0.0.1
-process: {}
+        title: PFT Statewide Research Files
+        url: http://www.cde.ca.gov/ta/tg/pf/pftresearch.asp

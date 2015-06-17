@@ -1,0 +1,7 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+CDS_CODE,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+ETHNIC,1,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+GENDER,1,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"F,M"
+GRADS,3,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+UC_GRADS,3,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+YEAR,4,<type 'int'>,False,5001,5001,0,0,0,0,0,0,

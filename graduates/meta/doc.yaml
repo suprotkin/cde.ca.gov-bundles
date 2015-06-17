@@ -1,8 +1,12 @@
 documentation:
     footnote: null
-    main: ''
+    main: '
+
+        '
     processed: ''
     readme: null
     source: ''
-    summary: ''
-    title: ''
+    summary: Downloadable data files for graduates and graduates meeting University
+        of California (UC)/California State University (CSU) entrance requirements
+        by race/ethnic designation and gender by school.
+    title: Graduates by Race  Gende

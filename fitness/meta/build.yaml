@@ -1,7 +1,49 @@
 build: {}
 dependencies: {}
 sources:
-    example:
-        description: description
-        url: http://example.com
+    pftresearchfiles99:
+        description: 1999 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip
+    pftresearchfiles01:
+        description: 2001 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip
+    pftresearchfiles02:
+        description: 2002 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip
+    pftresearchfiles03:
+        description: 2003 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip
+    pftresearchfiles04:
+        description: 2004 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip
+    pftresearchfiles05:
+        description: 2005 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip
+    pftresearchfiles06:
+        description: 2006 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip
+    pftresearchfiles07:
+        description: 2007 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip
+    pftresearchfiles08:
+        description: 2008 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip
+    pftresearchfiles09:
+        description: 2009 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip
+    pftresearchfiles10:
+        description: 2010 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip
+    pftresearchfiles11:
+        description: 2011 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip
+    pftresearchfiles12:
+        description: 2012 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip
+    pftresearchfiles13:
+        description: 2013 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip
+    pftresearchfiles14:
+        description: 2014 PFT data
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip
 views: {}
