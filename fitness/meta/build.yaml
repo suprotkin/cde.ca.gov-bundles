@@ -7,6 +7,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2001
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip
     entities02:
@@ -14,6 +15,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2002
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip
     entities03:
@@ -21,6 +23,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2003
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip
     entities04:
@@ -28,6 +31,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2004
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip
     entities05:
@@ -35,6 +39,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2005
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip
     entities06:
@@ -42,6 +47,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2006
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip
     entities07:
@@ -49,6 +55,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2007
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip
     entities08:
@@ -56,6 +63,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2008
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip
     entities09:
@@ -63,6 +71,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2009
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip
     entities10:
@@ -70,6 +79,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2010
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip
     entities11:
@@ -77,20 +87,23 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 2011
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip
     entities12:
         description: "2011\u201312 Physical Fitness Entities"
         encoding: latin-1
         file: 2011_12_Entities.txt
-        filetype: tsv
+        filetype: csv
+        table: entities
         time: 2011/2012
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip
     entities13:
         description: "2012\u201313 Physical Fitness Entities"
         encoding: latin-1
         file: 2012_13_Entities.txt
-        filetype: tsv
+        filetype: csv
+        table: entities
         time: 2012/2013
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip
     entities14:
@@ -98,6 +111,7 @@ sources:
         encoding: latin-1
         file: 2013_14_Entities.txt
         filetype: tsv
+        table: entities
         time: 2013/2014
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip
     entities99:
@@ -105,6 +119,7 @@ sources:
         encoding: latin-1
         file: Entities\d+.txt
         filetype: csv
+        table: entities
         time: 1999
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip
     physfit01:
@@ -112,6 +127,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2001
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip
     physfit02:
@@ -119,6 +135,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2002
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip
     physfit03:
@@ -126,6 +143,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2003
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip
     physfit04:
@@ -133,6 +151,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2004
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip
     physfit05:
@@ -140,6 +159,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2005
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip
     physfit06:
@@ -147,6 +167,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2006
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip
     physfit07:
@@ -154,6 +175,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2007
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip
     physfit08:
@@ -161,6 +183,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2008
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip
     physfit09:
@@ -168,6 +191,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2009
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip
     physfit10:
@@ -175,6 +199,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2010
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip
     physfit11:
@@ -182,6 +207,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 2011
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip
     physfit12:
@@ -189,6 +215,7 @@ sources:
         encoding: latin-1
         file: 2011_12_ResearchFile.txt
         filetype: tsv
+        table: physfit
         time: 2011/2012
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip
     physfit13:
@@ -196,6 +223,7 @@ sources:
         encoding: latin-1
         file: 2012_13_ResearchFile.txt
         filetype: tsv
+        table: physfit
         time: 2012/2013
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip
     physfit14:
@@ -203,6 +231,7 @@ sources:
         encoding: latin-1
         file: 2013_14_ResearchFile.txt
         filetype: csv
+        table: physfit
         time: 2013/2014
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip
     physfit99:
@@ -210,6 +239,7 @@ sources:
         encoding: latin-1
         file: PhysFit\d+.txt
         filetype: csv
+        table: physfit
         time: 1999
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip
     subgroup01:
@@ -217,6 +247,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2001
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip
     subgroup02:
@@ -224,6 +255,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2002
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip
     subgroup03:
@@ -231,6 +263,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2003
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip
     subgroup04:
@@ -238,6 +271,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2004
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip
     subgroup05:
@@ -245,6 +279,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2005
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip
     subgroup06:
@@ -252,6 +287,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2006
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip
     subgroup07:
@@ -259,6 +295,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2007
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip
     subgroup08:
@@ -266,6 +303,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2008
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip
     subgroup09:
@@ -273,6 +311,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2009
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip
     subgroup10:
@@ -280,6 +319,7 @@ sources:
         encoding: latin-1
         file: Subgroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2010
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip
     subgroup11:
@@ -287,6 +327,7 @@ sources:
         encoding: latin-1
         file: Subgroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 2011
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip
     subgroup12:
@@ -294,6 +335,7 @@ sources:
         encoding: latin-1
         file: 2011_12_Subgroups.txt
         filetype: tsv
+        table: subgroups
         time: 2011/2012
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip
     subgroup13:
@@ -301,6 +343,7 @@ sources:
         encoding: latin-1
         file: 2012_13_Subgroups.txt
         filetype: tsv
+        table: subgroups
         time: 2012/2013
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip
     subgroup14:
@@ -308,6 +351,7 @@ sources:
         encoding: latin-1
         file: 2013_14_Subgroups.txt
         filetype: csv
+        table: subgroups
         time: 2013/2014
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip
     subgroup99:
@@ -315,6 +359,7 @@ sources:
         encoding: latin-1
         file: SubGroups\d+.txt
         filetype: csv
+        table: subgroups
         time: 1999
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip
 views: {}

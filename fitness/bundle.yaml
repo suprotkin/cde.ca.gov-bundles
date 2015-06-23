@@ -48,7 +48,7 @@ external_documentation:
 identity:
     bspace: null
     btime: null
-    dataset: ethnicity_gender
+    dataset: fitness
     id: d000002F
     revision: 1
     source: cde.ca.gov
@@ -57,8 +57,8 @@ identity:
     variation: null
     version: 0.0.1
 names:
-    fqname: cde.ca.gov-ethnicity_gender-0.0.1~d000002F001
-    name: cde.ca.gov-ethnicity_gender
+    fqname: cde.ca.gov-fitness-0.0.1~d000002F001
+    name: cde.ca.gov-fitness
     vid: d000002F001
-    vname: cde.ca.gov-ethnicity_gender-0.0.1
+    vname: cde.ca.gov-fitness-0.0.1
 process: {}
