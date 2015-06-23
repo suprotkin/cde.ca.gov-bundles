@@ -25,7 +25,7 @@ class Bundle(LoaderBundle):
         if row_gen._header and len(row_gen._header) < len(row):
             
             if '\t' in row:
-                raise Exception()
+                raise Exception() # tabs should be handled by filetype in the sources. 
 
             i =  len(row_gen._header) -1
             row = row[:i] + [','.join(row[i:])]
