@@ -9,7 +9,9 @@ about:
     source: null
     space: California
     subject: null
-    summary: The physical fitness test (PFT) for students in California schools is the FITNESSGRAM®. The main goal of the test is to help students in starting life-long habits of regular physical activity.
+    summary: "The physical fitness test (PFT) for students in California schools is\
+        \ the FITNESSGRAM\xAE. The main goal of the test is to help students in starting\
+        \ life-long habits of regular physical activity."
     tags: []
     time: 1999/2014
     title: Physical Fitness Test  Results
@@ -27,7 +29,36 @@ contact_source:
     maintainer: {}
 external_documentation:
     dataset:
-        description: The physical fitness test (PFT) for students in California schools is the FITNESSGRAM®. The main goal of the test is to help students in starting life-long habits of regular physical activity.
+        description: "The physical fitness test (PFT) for students in California schools\
+            \ is the FITNESSGRAM\xAE. The main goal of the test is to help students\
+            \ in starting life-long habits of regular physical activity."
         source: null
         title: PFT Statewide Research Files
         url: http://www.cde.ca.gov/ta/tg/pf/pftresearch.asp
+    documentation:
+        description: The primary documentation file
+        source: null
+        title: Main Documentation
+        url: http://example.com
+    download:
+        description: Web page that links to the source files.
+        source: null
+        title: Download Page
+        url: http://example.com
+identity:
+    bspace: null
+    btime: null
+    dataset: ethnicity_gender
+    id: d000002F
+    revision: 1
+    source: cde.ca.gov
+    subset: null
+    type: null
+    variation: null
+    version: 0.0.1
+names:
+    fqname: cde.ca.gov-ethnicity_gender-0.0.1~d000002F001
+    name: cde.ca.gov-ethnicity_gender
+    vid: d000002F001
+    vname: cde.ca.gov-ethnicity_gender-0.0.1
+process: {}

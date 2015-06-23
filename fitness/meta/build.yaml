@@ -1,49 +1,320 @@
-build: {}
+build:
+    requirements: {}
 dependencies: {}
 sources:
-    pftresearchfiles99:
-        description: 1999 PFT data
-        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip
-    pftresearchfiles01:
-        description: 2001 PFT data
+    entities01:
+        description: 2001 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2001
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip
-    pftresearchfiles02:
-        description: 2002 PFT data
+    entities02:
+        description: 2002 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2002
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip
-    pftresearchfiles03:
-        description: 2003 PFT data
+    entities03:
+        description: 2003 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2003
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip
-    pftresearchfiles04:
-        description: 2004 PFT data
+    entities04:
+        description: 2004 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2004
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip
-    pftresearchfiles05:
-        description: 2005 PFT data
+    entities05:
+        description: 2005 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2005
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip
-    pftresearchfiles06:
-        description: 2006 PFT data
+    entities06:
+        description: 2006 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2006
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip
-    pftresearchfiles07:
-        description: 2007 PFT data
+    entities07:
+        description: 2007 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2007
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip
-    pftresearchfiles08:
-        description: 2008 PFT data
+    entities08:
+        description: 2008 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2008
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip
-    pftresearchfiles09:
-        description: 2009 PFT data
+    entities09:
+        description: 2009 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2009
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip
-    pftresearchfiles10:
-        description: 2010 PFT data
+    entities10:
+        description: 2010 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2010
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip
-    pftresearchfiles11:
-        description: 2011 PFT data
+    entities11:
+        description: 2011 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 2011
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip
-    pftresearchfiles12:
-        description: 2012 PFT data
+    entities12:
+        description: "2011\u201312 Physical Fitness Entities"
+        encoding: latin-1
+        file: 2011_12_Entities.txt
+        filetype: tsv
+        time: 2011/2012
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip
-    pftresearchfiles13:
-        description: 2013 PFT data
+    entities13:
+        description: "2012\u201313 Physical Fitness Entities"
+        encoding: latin-1
+        file: 2012_13_Entities.txt
+        filetype: tsv
+        time: 2012/2013
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip
-    pftresearchfiles14:
-        description: 2014 PFT data
+    entities14:
+        description: "2013\u201314 Physical Fitness Entities"
+        encoding: latin-1
+        file: 2013_14_Entities.txt
+        filetype: tsv
+        time: 2013/2014
         url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip
+    entities99:
+        description: 1999 PFT Entities
+        encoding: latin-1
+        file: Entities\d+.txt
+        filetype: csv
+        time: 1999
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip
+    physfit01:
+        description: 2001 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2001
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip
+    physfit02:
+        description: 2002 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2002
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip
+    physfit03:
+        description: 2003 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2003
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip
+    physfit04:
+        description: 2004 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2004
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip
+    physfit05:
+        description: 2005 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2005
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip
+    physfit06:
+        description: 2006 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2006
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip
+    physfit07:
+        description: 2007 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2007
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip
+    physfit08:
+        description: 2008 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2008
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip
+    physfit09:
+        description: 2009 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2009
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip
+    physfit10:
+        description: 2010 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2010
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip
+    physfit11:
+        description: 2011 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 2011
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip
+    physfit12:
+        description: "2011\u201312 Physical Fitness Research"
+        encoding: latin-1
+        file: 2011_12_ResearchFile.txt
+        filetype: tsv
+        time: 2011/2012
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip
+    physfit13:
+        description: "2012\u201313 Physical Fitness Research"
+        encoding: latin-1
+        file: 2012_13_ResearchFile.txt
+        filetype: tsv
+        time: 2012/2013
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip
+    physfit14:
+        description: "2013\u201314 Physical Fitness Research"
+        encoding: latin-1
+        file: 2013_14_ResearchFile.txt
+        filetype: csv
+        time: 2013/2014
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip
+    physfit99:
+        description: 1999 PFT Fitness Results
+        encoding: latin-1
+        file: PhysFit\d+.txt
+        filetype: csv
+        time: 1999
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip
+    subgroup01:
+        description: 2001 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2001
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip
+    subgroup02:
+        description: 2002 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2002
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip
+    subgroup03:
+        description: 2003 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2003
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip
+    subgroup04:
+        description: 2004 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2004
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip
+    subgroup05:
+        description: 2005 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2005
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip
+    subgroup06:
+        description: 2006 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2006
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip
+    subgroup07:
+        description: 2007 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2007
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip
+    subgroup08:
+        description: 2008 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2008
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip
+    subgroup09:
+        description: 2009 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 2009
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip
+    subgroup10:
+        description: 2010 PFT Subgroup
+        encoding: latin-1
+        file: Subgroups\d+.txt
+        filetype: csv
+        time: 2010
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip
+    subgroup11:
+        description: 2011 PFT Subgroup
+        encoding: latin-1
+        file: Subgroups\d+.txt
+        filetype: csv
+        time: 2011
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip
+    subgroup12:
+        description: "2011\u201312 Physical Fitness Subgroups"
+        encoding: latin-1
+        file: 2011_12_Subgroups.txt
+        filetype: tsv
+        time: 2011/2012
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip
+    subgroup13:
+        description: "2012\u201313 Physical Fitness Subgroups"
+        encoding: latin-1
+        file: 2012_13_Subgroups.txt
+        filetype: tsv
+        time: 2012/2013
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip
+    subgroup14:
+        description: "2013\u201314 Physical Fitness Subgroups"
+        encoding: latin-1
+        file: 2013_14_Subgroups.txt
+        filetype: csv
+        time: 2013/2014
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip
+    subgroup99:
+        description: 1999 PFT Subgroup
+        encoding: latin-1
+        file: SubGroups\d+.txt
+        filetype: csv
+        time: 1999
+        url: http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip
 views: {}

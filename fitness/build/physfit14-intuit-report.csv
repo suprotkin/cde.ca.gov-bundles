@@ -1,0 +1,25 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+Level_Number,1,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Report_Number,1,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Table_Number,1,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Line_Number,1,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+CO,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+DIST,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+SCHL,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Line_Text,35,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Aerobic Capacity,Body Composition,Abdominal Strength,Trunk Extension Strength,Upper Body Strength,Flexibility"
+NoStud5,3,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+NoHFZ5,3,<type 'int'>,True,5001,4803,0,198,0,0,0,0,**
+Perc5a,5,<type 'float'>,True,5001,2179,2624,198,0,0,0,0,**
+Perc5b,5,<type 'float'>,True,5001,2186,2617,198,0,0,0,0,**
+Perc5c,5,<type 'float'>,True,5001,3946,857,198,0,0,0,0,**
+NoStud7,3,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+NoHFZ7,3,<type 'int'>,True,5001,4737,0,264,0,0,0,0,**
+Perc7a,5,<type 'float'>,True,5001,3795,942,264,0,0,0,0,**
+Perc7b,5,<type 'float'>,True,5001,3797,940,264,0,0,0,0,**
+Perc7c,5,<type 'float'>,True,5001,4429,308,264,0,0,0,0,**
+NoStud9,3,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+NoHFZ9,3,<type 'int'>,True,5001,4809,0,192,0,0,0,0,**
+Perc9a,5,<type 'float'>,True,5001,4084,725,192,0,0,0,0,**
+Perc9b,5,<type 'float'>,True,5001,4076,733,192,0,0,0,0,**
+Perc9c,5,<type 'float'>,True,5001,4565,244,192,0,0,0,0,**
+ChrtNum,4,<type 'int'>,False,5001,5001,0,0,0,0,0,0,

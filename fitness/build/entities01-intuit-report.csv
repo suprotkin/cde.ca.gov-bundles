@@ -1,0 +1,8 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+Ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+cds_code,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+County,14,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda,Alpine,Amador,Butte,Calaveras,Colusa,Contra Costa,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen,Los Angeles"
+District,59,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda County,California School for the Deaf-Fremont (State Special Schl),Alameda City Unified,Albany City Unified,Berkeley Unified,Castro Valley Unified,Emery Unified,Fremont Unified,Hayward Unified,Livermore Valley Joint Unified,Newark Unified,New Haven Unified,Oakland Unified,Piedmont City Unified,San Leandro Unified,San Lorenzo Unified,Dublin Unified,Pleasanton Unified,Alpine County"
+School,60,<type 'str'>,False,5000,0,0,5000,0,0,0,0,"Mission Viejo High,La Paz Intermediate,Marguerite M. O'Neill Elementary,Olivewood Elementary,Ralph A. Gates Elementary,Trabuco Elementary,Aliso Elementary,Valencia Elementary,Cordillera Elementary,Del Cerro Elementary,Los Alisos Intermediate,De Portola Elementary,Montevideo Elementary,Glen Yermo Elementary,Lomarena Elementary,San Joaquin Elementary,Serrano Intermediate,Rancho Canada Elementary,La Madera Elementary,La Tierra Elementary"

@@ -1,0 +1,101 @@
+ccode,dcode,chrtnum,scode,cdscode,County,District,School
+01,00000,0000,0000000,01000000000000,Alameda,Alameda County,
+01,10017,0728,0000000,01100170000000,Alameda,FAME Public Charter,
+01,10017,0728,0109835,01100170109835,Alameda,FAME Public Charter,FAME Public Charter
+01,10017,0740,0000000,01100170000000,Alameda,Cox Academy,
+01,10017,0740,6001788,01100176001788,Alameda,Cox Academy,Cox Academy
+01,10017,0811,0000000,01100170000000,Alameda,Envision Academy for Arts & Technology,
+01,10017,0811,0112607,01100170112607,Alameda,Envision Academy for Arts & Technology,Envision Academy for Arts & Technology
+01,10017,1049,0000000,01100170000000,Alameda,Aspire California College Preparatory Academy,
+01,10017,1049,0118489,01100170118489,Alameda,Aspire California College Preparatory Academy,Aspire California College Preparatory Academy
+01,31609,0000,0000000,01316090000000,Alameda,California School for the Blind (State Special Schl),
+01,31609,0000,0131755,01316090131755,Alameda,California School for the Blind (State Special Schl),California School for the Blind
+01,31617,0000,0000000,01316170000000,Alameda,California School for the Deaf-Fremont (State Special Schl),
+01,31617,0000,0131763,01316170131763,Alameda,California School for the Deaf-Fremont (State Special Schl),California School for the Deaf-Fremont
+01,61119,0000,0000000,01611190000000,Alameda,Alameda City Unified,
+01,61119,0000,0106401,01611190106401,Alameda,Alameda City Unified,Alameda Science and Technology Institute
+01,61119,0000,0111765,01611190111765,Alameda,Alameda City Unified,Ruby Bridges Elementary
+01,61119,0000,0130229,01611190130229,Alameda,Alameda City Unified,Alameda High
+01,61119,0000,0132878,01611190132878,Alameda,Alameda City Unified,Encinal High
+01,61119,0000,6090005,01611196090005,Alameda,Alameda City Unified,Donald D. Lum Elementary
+01,61119,0000,6090013,01611196090013,Alameda,Alameda City Unified,Edison Elementary
+01,61119,0000,6090021,01611196090021,Alameda,Alameda City Unified,Frank Otis Elementary
+01,61119,0000,6090039,01611196090039,Alameda,Alameda City Unified,Franklin Elementary
+01,61119,0000,6090047,01611196090047,Alameda,Alameda City Unified,Henry Haight Elementary
+01,61119,0000,6090054,01611196090054,Alameda,Alameda City Unified,Lincoln Middle
+01,61119,0000,6090104,01611196090104,Alameda,Alameda City Unified,Washington Elementary
+01,61119,0000,6090112,01611196090112,Alameda,Alameda City Unified,Will C. Wood Middle
+01,61119,0000,6090120,01611196090120,Alameda,Alameda City Unified,William G. Paden Elementary
+01,61119,0000,6100374,01611196100374,Alameda,Alameda City Unified,Amelia Earhart Elementary
+01,61119,0000,6110779,01611196110779,Alameda,Alameda City Unified,Bay Farm Elementary
+01,61119,0352,0000000,01611190000000,Alameda,Alameda Community Learning Center,
+01,61119,0352,0130609,01611190130609,Alameda,Alameda Community Learning Center,Alameda Community Learning Center
+01,61119,0398,0000000,01611190000000,Alameda,Bay Area School of Enterprise,
+01,61119,0398,0130625,01611190130625,Alameda,Bay Area School of Enterprise,Bay Area School of Enterprise
+01,61119,1066,0000000,01611190000000,Alameda,Nea Community Learning Center,
+01,61119,1066,0119222,01611190119222,Alameda,Nea Community Learning Center,Nea Community Learning Center
+01,61119,1181,0000000,01611190000000,Alameda,Academy of Alameda,
+01,61119,1181,0122085,01611190122085,Alameda,Academy of Alameda,Academy of Alameda
+01,61127,0000,0000000,01611270000000,Alameda,Albany City Unified,
+01,61127,0000,0130450,01611270130450,Alameda,Albany City Unified,Albany High
+01,61127,0000,6090146,01611276090146,Alameda,Albany City Unified,Cornell Elementary
+01,61127,0000,6090161,01611276090161,Alameda,Albany City Unified,Albany Middle
+01,61127,0000,6095376,01611276095376,Alameda,Albany City Unified,Marin Elementary
+01,61127,0000,6116222,01611276116222,Alameda,Albany City Unified,Ocean View Elementary
+01,61143,0000,0000000,01611430000000,Alameda,Berkeley Unified,
+01,61143,0000,0131177,01611430131177,Alameda,Berkeley Unified,Berkeley High
+01,61143,0000,6056857,01611436056857,Alameda,Berkeley Unified,Martin Luther King Middle
+01,61143,0000,6056865,01611436056865,Alameda,Berkeley Unified,Willard Middle
+01,61143,0000,6090187,01611436090187,Alameda,Berkeley Unified,Rosa Parks Environmental Science Magnet
+01,61143,0000,6090195,01611436090195,Alameda,Berkeley Unified,Cragmont Elementary
+01,61143,0000,6090211,01611436090211,Alameda,Berkeley Unified,Emerson Elementary
+01,61143,0000,6090252,01611436090252,Alameda,Berkeley Unified,Jefferson Elementary
+01,61143,0000,6090278,01611436090278,Alameda,Berkeley Unified,Leconte Elementary
+01,61143,0000,6090286,01611436090286,Alameda,Berkeley Unified,Malcolm X Elementary
+01,61143,0000,6090294,01611436090294,Alameda,Berkeley Unified,Longfellow Arts and Technology Middle
+01,61143,0000,6090302,01611436090302,Alameda,Berkeley Unified,Oxford Elementary
+01,61143,0000,6090310,01611436090310,Alameda,Berkeley Unified,Thousand Oaks Elementary
+01,61143,0000,6090328,01611436090328,Alameda,Berkeley Unified,Washington Elementary
+01,61143,0000,6097729,01611436097729,Alameda,Berkeley Unified,Berkeley Arts Magnet at Whittier
+01,61143,0000,6105316,01611436105316,Alameda,Berkeley Unified,John Muir Elementary
+01,61150,0000,0000000,01611500000000,Alameda,Castro Valley Unified,
+01,61150,0000,0000001,01611500000001,Alameda,Castro Valley Unified,Castro Valley Unified NPS Students
+01,61150,0000,0132225,01611500132225,Alameda,Castro Valley Unified,Castro Valley High
+01,61150,0000,0135533,01611500135533,Alameda,Castro Valley Unified,Redwood Continuation High
+01,61150,0000,6090351,01611506090351,Alameda,Castro Valley Unified,Castro Valley Elementary
+01,61150,0000,6090369,01611506090369,Alameda,Castro Valley Unified,Chabot Elementary
+01,61150,0000,6090385,01611506090385,Alameda,Castro Valley Unified,Creekside Middle
+01,61150,0000,6090393,01611506090393,Alameda,Castro Valley Unified,Independent Elementary
+01,61150,0000,6090401,01611506090401,Alameda,Castro Valley Unified,Marshall Elementary
+01,61150,0000,6090419,01611506090419,Alameda,Castro Valley Unified,Palomares Elementary
+01,61150,0000,6090435,01611506090435,Alameda,Castro Valley Unified,Proctor Elementary
+01,61150,0000,6090468,01611506090468,Alameda,Castro Valley Unified,Stanton Elementary
+01,61150,0000,6090484,01611506090484,Alameda,Castro Valley Unified,Vannoy Elementary
+01,61150,0000,6097653,01611506097653,Alameda,Castro Valley Unified,Canyon Middle
+01,61150,0000,6113005,01611506113005,Alameda,Castro Valley Unified,Jensen Ranch Elementary
+01,61176,0000,0000000,01611760000000,Alameda,Fremont Unified,
+01,61176,0000,0130062,01611760130062,Alameda,Fremont Unified,American High
+01,61176,0000,0130138,01611760130138,Alameda,Fremont Unified,Robertson High (Continuation)
+01,61176,0000,0130435,01611760130435,Alameda,Fremont Unified,Vista Alternative
+01,61176,0000,0130534,01611760130534,Alameda,Fremont Unified,Circle of Independent Learning
+01,61176,0000,0134270,01611760134270,Alameda,Fremont Unified,Irvington High
+01,61176,0000,0134452,01611760134452,Alameda,Fremont Unified,John F. Kennedy High
+01,61176,0000,0135244,01611760135244,Alameda,Fremont Unified,Mission San Jose High
+01,61176,0000,0138693,01611760138693,Alameda,Fremont Unified,Washington High
+01,61176,0000,0161176,01611760161176,Alameda,Fremont Unified,Home/hospital and independent study
+01,61176,0000,6000541,01611766000541,Alameda,Fremont Unified,John Blacow Elementary
+01,61176,0000,6000558,01611766000558,Alameda,Fremont Unified,Brier Elementary
+01,61176,0000,6000566,01611766000566,Alameda,Fremont Unified,Cabrillo Elementary
+01,61176,0000,6000590,01611766000590,Alameda,Fremont Unified,E. M. Grimmer Elementary
+01,61176,0000,6000624,01611766000624,Alameda,Fremont Unified,Glenmoor Elementary
+01,61176,0000,6000640,01611766000640,Alameda,Fremont Unified,Harvey Green Elementary
+01,61176,0000,6000665,01611766000665,Alameda,Fremont Unified,J. Haley Durham Elementary
+01,61176,0000,6000681,01611766000681,Alameda,Fremont Unified,Joseph Azevada Elementary
+01,61176,0000,6000715,01611766000715,Alameda,Fremont Unified,Tom Maloney Elementary
+01,61176,0000,6000723,01611766000723,Alameda,Fremont Unified,John G. Mattos Elementary
+01,61176,0000,6000749,01611766000749,Alameda,Fremont Unified,Mission Valley Elementary
+01,61176,0000,6000756,01611766000756,Alameda,Fremont Unified,Niles Elementary
+01,61176,0000,6000764,01611766000764,Alameda,Fremont Unified,O. N. Hirsch Elementary
+01,61176,0000,6000798,01611766000798,Alameda,Fremont Unified,Parkmont Elementary
+01,61176,0000,6000806,01611766000806,Alameda,Fremont Unified,Patterson Elementary
+01,61176,0000,6000830,01611766000830,Alameda,Fremont Unified,Vallejo Mill Elementary

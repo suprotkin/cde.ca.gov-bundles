@@ -1,0 +1,101 @@
+Level_Number,Report_Number,Table_Number,Line_Number,Line_Text,Table_Type,Subgroup
+1,0,1,1,Aerobic Capacity,Physical Fitness Areas,All Students
+1,0,1,2,Body Composition,Physical Fitness Areas,All Students
+1,0,1,3,Abdominal Strength,Physical Fitness Areas,All Students
+1,0,1,4,Trunk Extension Strength,Physical Fitness Areas,All Students
+1,0,1,5,Upper Body Strength,Physical Fitness Areas,All Students
+1,0,1,6,Flexibility,Physical Fitness Areas,All Students
+1,0,2,1,Aerobic Capacity 2011,Physical Fitness Comparisons,All Students
+1,0,2,2,Body Composition 2011,Physical Fitness Comparisons,All Students
+1,0,2,3,Aerobic Capacity 2010,Physical Fitness Comparisons,All Students
+1,0,2,4,Body Composition 2010,Physical Fitness Comparisons,All Students
+1,0,3,1,6 of 6 fitness standards,Meeting Healthy Fitness Zone,All Students
+1,0,3,2,5 of 6 fitness standards,Meeting Healthy Fitness Zone,All Students
+1,0,3,3,4 of 6 fitness standards,Meeting Healthy Fitness Zone,All Students
+1,0,3,4,3 of 6 fitness standards,Meeting Healthy Fitness Zone,All Students
+1,0,3,5,2 of 6 fitness standards,Meeting Healthy Fitness Zone,All Students
+1,0,3,6,1 of 6 fitness standards,Meeting Healthy Fitness Zone,All Students
+1,0,3,7,0 of 6 fitness standards,Meeting Healthy Fitness Zone,All Students
+1,0,3,8,Total tested,Meeting Healthy Fitness Zone,All Students
+1,1,1,1,Aerobic Capacity,Physical Fitness Areas,Female
+1,1,1,2,Body Composition,Physical Fitness Areas,Female
+1,1,1,3,Abdominal Strength,Physical Fitness Areas,Female
+1,1,1,4,Trunk Extension Strength,Physical Fitness Areas,Female
+1,1,1,5,Upper Body Strength,Physical Fitness Areas,Female
+1,1,1,6,Flexibility,Physical Fitness Areas,Female
+1,1,2,1,Aerobic Capacity 2011,Physical Fitness Comparisons,Female
+1,1,2,2,Body Composition 2011,Physical Fitness Comparisons,Female
+1,1,2,3,Aerobic Capacity 2010,Physical Fitness Comparisons,Female
+1,1,2,4,Body Composition 2010,Physical Fitness Comparisons,Female
+1,1,3,1,6 of 6 fitness standards,Meeting Healthy Fitness Zone,Female
+1,1,3,2,5 of 6 fitness standards,Meeting Healthy Fitness Zone,Female
+1,1,3,3,4 of 6 fitness standards,Meeting Healthy Fitness Zone,Female
+1,1,3,4,3 of 6 fitness standards,Meeting Healthy Fitness Zone,Female
+1,1,3,5,2 of 6 fitness standards,Meeting Healthy Fitness Zone,Female
+1,1,3,6,1 of 6 fitness standards,Meeting Healthy Fitness Zone,Female
+1,1,3,7,0 of 6 fitness standards,Meeting Healthy Fitness Zone,Female
+1,1,3,8,Total tested,Meeting Healthy Fitness Zone,Female
+1,2,1,1,Aerobic Capacity,Physical Fitness Areas,Male
+1,2,1,2,Body Composition,Physical Fitness Areas,Male
+1,2,1,3,Abdominal Strength,Physical Fitness Areas,Male
+1,2,1,4,Trunk Extension Strength,Physical Fitness Areas,Male
+1,2,1,5,Upper Body Strength,Physical Fitness Areas,Male
+1,2,1,6,Flexibility,Physical Fitness Areas,Male
+1,2,2,1,Aerobic Capacity 2011,Physical Fitness Comparisons,Male
+1,2,2,2,Body Composition 2011,Physical Fitness Comparisons,Male
+1,2,2,3,Aerobic Capacity 2010,Physical Fitness Comparisons,Male
+1,2,2,4,Body Composition 2010,Physical Fitness Comparisons,Male
+1,2,3,1,6 of 6 fitness standards,Meeting Healthy Fitness Zone,Male
+1,2,3,2,5 of 6 fitness standards,Meeting Healthy Fitness Zone,Male
+1,2,3,3,4 of 6 fitness standards,Meeting Healthy Fitness Zone,Male
+1,2,3,4,3 of 6 fitness standards,Meeting Healthy Fitness Zone,Male
+1,2,3,5,2 of 6 fitness standards,Meeting Healthy Fitness Zone,Male
+1,2,3,6,1 of 6 fitness standards,Meeting Healthy Fitness Zone,Male
+1,2,3,7,0 of 6 fitness standards,Meeting Healthy Fitness Zone,Male
+1,2,3,8,Total tested,Meeting Healthy Fitness Zone,Male
+1,3,1,1,Aerobic Capacity,Physical Fitness Areas,Black or African American
+1,3,1,2,Body Composition,Physical Fitness Areas,Black or African American
+1,3,1,3,Abdominal Strength,Physical Fitness Areas,Black or African American
+1,3,1,4,Trunk Extension Strength,Physical Fitness Areas,Black or African American
+1,3,1,5,Upper Body Strength,Physical Fitness Areas,Black or African American
+1,3,1,6,Flexibility,Physical Fitness Areas,Black or African American
+1,3,2,1,Aerobic Capacity 2011,Physical Fitness Comparisons,Black or African American
+1,3,2,2,Body Composition 2011,Physical Fitness Comparisons,Black or African American
+1,3,2,3,Aerobic Capacity 2010,Physical Fitness Comparisons,Black or African American
+1,3,2,4,Body Composition 2010,Physical Fitness Comparisons,Black or African American
+1,3,3,1,6 of 6 fitness standards,Meeting Healthy Fitness Zone,Black or African American
+1,3,3,2,5 of 6 fitness standards,Meeting Healthy Fitness Zone,Black or African American
+1,3,3,3,4 of 6 fitness standards,Meeting Healthy Fitness Zone,Black or African American
+1,3,3,4,3 of 6 fitness standards,Meeting Healthy Fitness Zone,Black or African American
+1,3,3,5,2 of 6 fitness standards,Meeting Healthy Fitness Zone,Black or African American
+1,3,3,6,1 of 6 fitness standards,Meeting Healthy Fitness Zone,Black or African American
+1,3,3,7,0 of 6 fitness standards,Meeting Healthy Fitness Zone,Black or African American
+1,3,3,8,Total tested,Meeting Healthy Fitness Zone,Black or African American
+1,4,1,1,Aerobic Capacity,Physical Fitness Areas,American Indian or Alaska Native
+1,4,1,2,Body Composition,Physical Fitness Areas,American Indian or Alaska Native
+1,4,1,3,Abdominal Strength,Physical Fitness Areas,American Indian or Alaska Native
+1,4,1,4,Trunk Extension Strength,Physical Fitness Areas,American Indian or Alaska Native
+1,4,1,5,Upper Body Strength,Physical Fitness Areas,American Indian or Alaska Native
+1,4,1,6,Flexibility,Physical Fitness Areas,American Indian or Alaska Native
+1,4,2,1,Aerobic Capacity 2011,Physical Fitness Comparisons,American Indian or Alaska Native
+1,4,2,2,Body Composition 2011,Physical Fitness Comparisons,American Indian or Alaska Native
+1,4,2,3,Aerobic Capacity 2010,Physical Fitness Comparisons,American Indian or Alaska Native
+1,4,2,4,Body Composition 2010,Physical Fitness Comparisons,American Indian or Alaska Native
+1,4,3,1,6 of 6 fitness standards,Meeting Healthy Fitness Zone,American Indian or Alaska Native
+1,4,3,2,5 of 6 fitness standards,Meeting Healthy Fitness Zone,American Indian or Alaska Native
+1,4,3,3,4 of 6 fitness standards,Meeting Healthy Fitness Zone,American Indian or Alaska Native
+1,4,3,4,3 of 6 fitness standards,Meeting Healthy Fitness Zone,American Indian or Alaska Native
+1,4,3,5,2 of 6 fitness standards,Meeting Healthy Fitness Zone,American Indian or Alaska Native
+1,4,3,6,1 of 6 fitness standards,Meeting Healthy Fitness Zone,American Indian or Alaska Native
+1,4,3,7,0 of 6 fitness standards,Meeting Healthy Fitness Zone,American Indian or Alaska Native
+1,4,3,8,Total tested,Meeting Healthy Fitness Zone,American Indian or Alaska Native
+1,5,1,1,Aerobic Capacity,Physical Fitness Areas,Asian
+1,5,1,2,Body Composition,Physical Fitness Areas,Asian
+1,5,1,3,Abdominal Strength,Physical Fitness Areas,Asian
+1,5,1,4,Trunk Extension Strength,Physical Fitness Areas,Asian
+1,5,1,5,Upper Body Strength,Physical Fitness Areas,Asian
+1,5,1,6,Flexibility,Physical Fitness Areas,Asian
+1,5,2,1,Aerobic Capacity 2011,Physical Fitness Comparisons,Asian
+1,5,2,2,Body Composition 2011,Physical Fitness Comparisons,Asian
+1,5,2,3,Aerobic Capacity 2010,Physical Fitness Comparisons,Asian
+1,5,2,4,Body Composition 2010,Physical Fitness Comparisons,Asian

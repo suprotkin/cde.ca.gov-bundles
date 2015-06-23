@@ -1,0 +1,8 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+Ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+cds_code,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+County,15,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda,Amador,Butte,Calaveras,Colusa,Contra Costa,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen,Los Angeles,Madera"
+District,41,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda County,Alameda City Unified,Castro Valley Unified,Emery Unified,Fremont Unified,Livermore Valley Joint Unified,Newark Unified,New Haven Unified,Oakland Unified,Piedmont City Unified,San Leandro Unified,San Lorenzo Unified,Dublin Unified,Pleasanton Unified,Amador County,Amador County Unified,Butte County,Butte County Office of Education,Chico Unified"
+School,60,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Northridge Elementary,Sunrise Elementary,Oakview Community Elementary,Orangevale Open Elementary,Pasadena Avenue Elementary,Louis Pasteur Fundamental Middle,Charles Peck Elementary,Pershing Elementary,Roberts Elementary,Will Rogers Middle,Jonas Salk High-Tech Academy,Sierra Oaks Elementary,Skycrest Elementary,Starr King,Sylvan Middle,Twin Lakes Elementary,Whitney Avenue Elementary,Cambridge Heights Elementary,Thomas Coleman Elementary,Woodside"

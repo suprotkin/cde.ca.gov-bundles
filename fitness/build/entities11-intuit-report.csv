@@ -1,0 +1,9 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+chrtnum,4,<type 'int'>,True,5001,4997,0,4,0,0,0,0,"00D5,00D7"
+scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+cdscode,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+County,12,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Alameda,Alpine,Amador,Butte,Calaveras,Colusa,Contra Costa,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen,Los Angeles"
+District,59,<type 'str'>,False,5001,0,0,4997,4,0,0,0,"Alameda County,Alameda County Office of Education,FAME Public Charter,Cox Academy,Envision Academy for Arts & Technology,Aspire California College Preparatory Academy,Community School for Creative Education,California School for the Blind (State Special Schl),California School for the Deaf-Fremont (State Special Schl),Diagnostic Center,Alameda City Unified,Alameda Community Learning Center,Bay Area School of Enterprise,Nea Community Learning Center,Albany City Unified,Berkeley Unified,REALM Middle,REALM High,Castro Valley Unified,Emery Unified"
+School,76,<type 'str'>,False,5001,0,0,4335,666,0,0,0,"Aragon Avenue Elementary,Arlington Heights Elementary,Arminta Street Elementary,Ascot Avenue Elementary,Atwater Avenue Elementary,Avalon Gardens Elementary,Baldwin Hills Elementary,Bandini Street Elementary,Barton Hill Elementary,Bassett Street Elementary,Beachy Avenue Elementary,Beckford Avenue Elementary,Beethoven Street Elementary,Belvedere Elementary,Bertrand Avenue Elementary,Blythe Street Elementary,Bonita Street Elementary,Braddock Drive Elementary,Brainard Elementary,Breed Street Elementary"

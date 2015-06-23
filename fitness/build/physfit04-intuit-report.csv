@@ -1,0 +1,19 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+Level,1,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+SubGrp,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+RptType,1,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+line_num,1,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+charternum,4,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+cds_code,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Gr05_Stu,6,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Gr5PctIn,5,<type 'float'>,True,5001,914,3635,452,0,0,0,0,*
+Gr5PctNotIn,5,<type 'float'>,True,5001,1393,2883,425,300,0,0,0,*
+Gr07_Stu,6,<type 'int'>,True,5001,4826,0,175,0,0,0,0,*
+Gr7PctIn,5,<type 'float'>,True,5001,1006,3568,427,0,0,0,0,*
+Gr7PctNotIn,5,<type 'float'>,True,5001,1465,2834,402,300,0,0,0,*
+Gr09_Stu,6,<type 'int'>,True,5001,4840,0,161,0,0,0,0,*
+Gr9PctIn,5,<type 'float'>,True,5001,998,3623,380,0,0,0,0,*
+Gr9PctNotIn,5,<type 'float'>,True,5001,1453,2891,357,300,0,0,0,*

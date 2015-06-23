@@ -1,0 +1,9 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+Ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+CharterNum,4,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+cds_code,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+County,15,<type 'str'>,False,5001,0,0,4999,2,0,0,0,"Statewide,Alameda,Alpine,Amador,Butte,Calaveras,Colusa,Contra Costa,CONTRA COSTA,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen"
+District,30,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda County,California School for the Deaf,Alameda City Unified,Albany City Unified,Berkeley Unified,Castro Valley Unified,Emery Unified,Fremont Unified,Hayward Unified,Livermore Valley Joint Unified,Newark Unified,New Haven Unified,Oakland Unified,Oakland Charter Academy,American Indian Public Charter,West Oakland Community,Reems (Ernestine C.) Academy o,Oakland School For The Arts,Lighthouse Community Charter"
+School,36,<type 'str'>,False,5001,0,0,4999,2,0,0,0,"Gonzales High,Fairview Middle,Napa County,Napa Cnty. Office of Education,Napa County Community,Calistoga Joint Unified,Calistoga Junior-Senior High,Calistoga Elementary,Howell Mountain Elementary,Napa Valley Unified,Harvest Middle,Napa Valley Alternative,Vintage High,Bridges,Horizons,Valley Oak High,Napa High,Alta Heights Elementary,Bel Aire Park Elementary,Browns Valley Elementary"

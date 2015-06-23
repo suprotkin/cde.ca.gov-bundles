@@ -1,0 +1,9 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+Ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+Dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+charternum,4,<type 'int'>,True,5001,4999,0,2,0,0,0,0,00D7
+Scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+cds_code,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+County,12,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda,Alpine,Amador,Butte,Calaveras,Colusa,Contra Costa,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen,Los Angeles"
+District,30,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda County,FAME Public Charter,Envision Academy for Arts,Aspire California College Pre,California School for the Blin,California School for the Deaf,Alameda City Unified,Nea Community Learning Center,Albany City Unified,Berkeley Unified,Castro Valley Unified,Emery Unified,Fremont Unified,Hayward Unified,Impact Academy of Arts & Techn,Golden Oak Montessori of Haywa,Livermore Valley Joint Unified,Newark Unified,New Haven Unified"
+school,35,<type 'str'>,False,5001,0,0,4290,711,0,0,0,"Golden Valley High,Rancho Pico Junior High,West Ranch High,Sequoia Charter,Canyon High,Saugus High,Learning Post High, Alter.,Hart (William S.) Senior High,Valencia High,Academy of the Canyons,Arroyo Seco Junior High,Placerita Junior High,Sierra Vista Junior High,La Mesa Jr. High,Opportunities for Learning -Sa,Mission View Public,Santa Clarita Valley Internati,Challenger Middle,Anza (Juan De),Burnett (Peter) Elementar"

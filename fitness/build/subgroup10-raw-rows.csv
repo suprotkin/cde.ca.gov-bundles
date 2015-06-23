@@ -1,0 +1,101 @@
+SubGrp,RptType,LineNum,SubGroup,ReportType,line_text
+0,1,1,All Students,Physical Fitness Areas,Aerobic Capacity
+0,1,2,All Students,Physical Fitness Areas,Body Composition
+0,1,3,All Students,Physical Fitness Areas,Abdominal Strength
+0,1,4,All Students,Physical Fitness Areas,Trunk Extension Strength
+0,1,5,All Students,Physical Fitness Areas,Upper Body Strength
+0,1,6,All Students,Physical Fitness Areas,Flexibility
+0,2,1,All Students,Meeting Healthy Fitness Zone,6 of 6 fitness standards
+0,2,2,All Students,Meeting Healthy Fitness Zone,5 of 6 fitness standards
+0,2,3,All Students,Meeting Healthy Fitness Zone,4 of 6 fitness standards
+0,2,4,All Students,Meeting Healthy Fitness Zone,3 of 6 fitness standards
+0,2,5,All Students,Meeting Healthy Fitness Zone,2 of 6 fitness standards
+0,2,6,All Students,Meeting Healthy Fitness Zone,1 of 6 fitness standards
+0,2,7,All Students,Meeting Healthy Fitness Zone,0 of 6 fitness standards
+0,2,8,All Students,Meeting Healthy Fitness Zone,Total tested
+1,3,1,Gender,Gender And Ethnic Summary,Females
+1,3,2,Gender,Gender And Ethnic Summary,Males
+1,3,3,Gender,Gender And Ethnic Summary,No Gender Information
+2,1,1,Female,Physical Fitness Areas,Aerobic Capacity
+2,1,2,Female,Physical Fitness Areas,Body Composition
+2,1,3,Female,Physical Fitness Areas,Abdominal Strength
+2,1,4,Female,Physical Fitness Areas,Trunk Extension Strength
+2,1,5,Female,Physical Fitness Areas,Upper Body Strength
+2,1,6,Female,Physical Fitness Areas,Flexibility
+2,2,1,Female,Meeting Healthy Fitness Zone,6 of 6 fitness standards
+2,2,2,Female,Meeting Healthy Fitness Zone,5 of 6 fitness standards
+2,2,3,Female,Meeting Healthy Fitness Zone,4 of 6 fitness standards
+2,2,4,Female,Meeting Healthy Fitness Zone,3 of 6 fitness standards
+2,2,5,Female,Meeting Healthy Fitness Zone,2 of 6 fitness standards
+2,2,6,Female,Meeting Healthy Fitness Zone,1 of 6 fitness standards
+2,2,7,Female,Meeting Healthy Fitness Zone,0 of 6 fitness standards
+2,2,8,Female,Meeting Healthy Fitness Zone,Total tested
+3,1,1,Male,Physical Fitness Areas,Aerobic Capacity
+3,1,2,Male,Physical Fitness Areas,Body Composition
+3,1,3,Male,Physical Fitness Areas,Abdominal Strength
+3,1,4,Male,Physical Fitness Areas,Trunk Extension Strength
+3,1,5,Male,Physical Fitness Areas,Upper Body Strength
+3,1,6,Male,Physical Fitness Areas,Flexibility
+3,2,1,Male,Meeting Healthy Fitness Zone,6 of 6 fitness standards
+3,2,2,Male,Meeting Healthy Fitness Zone,5 of 6 fitness standards
+3,2,3,Male,Meeting Healthy Fitness Zone,4 of 6 fitness standards
+3,2,4,Male,Meeting Healthy Fitness Zone,3 of 6 fitness standards
+3,2,5,Male,Meeting Healthy Fitness Zone,2 of 6 fitness standards
+3,2,6,Male,Meeting Healthy Fitness Zone,1 of 6 fitness standards
+3,2,7,Male,Meeting Healthy Fitness Zone,0 of 6 fitness standards
+3,2,8,Male,Meeting Healthy Fitness Zone,Total tested
+4,3,1,Ethnicity,Gender And Ethnic Summary,American Indian/Alaskan Native
+4,3,2,Ethnicity,Gender And Ethnic Summary,Chinese
+4,3,3,Ethnicity,Gender And Ethnic Summary,Japanese
+4,3,4,Ethnicity,Gender And Ethnic Summary,Korean
+4,3,5,Ethnicity,Gender And Ethnic Summary,Vietnamese
+4,3,6,Ethnicity,Gender And Ethnic Summary,Asian Indian
+4,3,7,Ethnicity,Gender And Ethnic Summary,Laotian
+4,3,8,Ethnicity,Gender And Ethnic Summary,Cambodian
+4,3,9,Ethnicity,Gender And Ethnic Summary,Other Asian
+4,3,10,Ethnicity,Gender And Ethnic Summary,Native Hawaiian
+4,3,11,Ethnicity,Gender And Ethnic Summary,Guamanian
+4,3,12,Ethnicity,Gender And Ethnic Summary,Samoan
+4,3,13,Ethnicity,Gender And Ethnic Summary,Tahitian
+4,3,14,Ethnicity,Gender And Ethnic Summary,Other Pacific Islander
+4,3,15,Ethnicity,Gender And Ethnic Summary,Filipino/Filipino American
+4,3,16,Ethnicity,Gender And Ethnic Summary,Hispanic/Latino
+4,3,17,Ethnicity,Gender And Ethnic Summary,African American(not Hispanic)
+4,3,18,Ethnicity,Gender And Ethnic Summary,White - Not of Hispanic Origin
+4,3,19,Ethnicity,Gender And Ethnic Summary,Declined to State
+4,3,20,Ethnicity,Gender And Ethnic Summary,Asian                         
+4,3,21,Ethnicity,Gender And Ethnic Summary,Native Hawaiian or Pacific Isl
+5,1,1,American Indian,Physical Fitness Areas,Aerobic Capacity
+5,1,2,American Indian,Physical Fitness Areas,Body Composition
+5,1,3,American Indian,Physical Fitness Areas,Abdominal Strength
+5,1,4,American Indian,Physical Fitness Areas,Trunk Extension Strength
+5,1,5,American Indian,Physical Fitness Areas,Upper Body Strength
+5,1,6,American Indian,Physical Fitness Areas,Flexibility
+5,2,1,American Indian,Meeting Healthy Fitness Zone,6 of 6 fitness standards
+5,2,2,American Indian,Meeting Healthy Fitness Zone,5 of 6 fitness standards
+5,2,3,American Indian,Meeting Healthy Fitness Zone,4 of 6 fitness standards
+5,2,4,American Indian,Meeting Healthy Fitness Zone,3 of 6 fitness standards
+5,2,5,American Indian,Meeting Healthy Fitness Zone,2 of 6 fitness standards
+5,2,6,American Indian,Meeting Healthy Fitness Zone,1 of 6 fitness standards
+5,2,7,American Indian,Meeting Healthy Fitness Zone,0 of 6 fitness standards
+5,2,8,American Indian,Meeting Healthy Fitness Zone,Total tested
+6,1,1,Chinese,Physical Fitness Areas,Aerobic Capacity
+6,1,2,Chinese,Physical Fitness Areas,Body Composition
+6,1,3,Chinese,Physical Fitness Areas,Abdominal Strength
+6,1,4,Chinese,Physical Fitness Areas,Trunk Extension Strength
+6,1,5,Chinese,Physical Fitness Areas,Upper Body Strength
+6,1,6,Chinese,Physical Fitness Areas,Flexibility
+6,2,1,Chinese,Meeting Healthy Fitness Zone,6 of 6 fitness standards
+6,2,2,Chinese,Meeting Healthy Fitness Zone,5 of 6 fitness standards
+6,2,3,Chinese,Meeting Healthy Fitness Zone,4 of 6 fitness standards
+6,2,4,Chinese,Meeting Healthy Fitness Zone,3 of 6 fitness standards
+6,2,5,Chinese,Meeting Healthy Fitness Zone,2 of 6 fitness standards
+6,2,6,Chinese,Meeting Healthy Fitness Zone,1 of 6 fitness standards
+6,2,7,Chinese,Meeting Healthy Fitness Zone,0 of 6 fitness standards
+6,2,8,Chinese,Meeting Healthy Fitness Zone,Total tested
+7,1,1,Japanese,Physical Fitness Areas,Aerobic Capacity
+7,1,2,Japanese,Physical Fitness Areas,Body Composition
+7,1,3,Japanese,Physical Fitness Areas,Abdominal Strength
+7,1,4,Japanese,Physical Fitness Areas,Trunk Extension Strength
+7,1,5,Japanese,Physical Fitness Areas,Upper Body Strength
+7,1,6,Japanese,Physical Fitness Areas,Flexibility

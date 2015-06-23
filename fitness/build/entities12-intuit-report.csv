@@ -1,0 +1,9 @@
+name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
+ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+chrtnum,4,<type 'int'>,True,5001,4997,0,4,0,0,0,0,"00D5,00D7"
+scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+cdscode,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
+County,12,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Alameda,Alpine,Amador,Butte,Calaveras,Colusa,Contra Costa,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen,Los Angeles,Madera"
+District,65,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Alameda County,FAME Public Charter,Cox Academy,Envision Academy for Arts & Technology,Aspire California College Preparatory Academy,California School for the Blind (State Special Schl),California School for the Deaf-Fremont (State Special Schl),Alameda City Unified,Alameda Community Learning Center,Bay Area School of Enterprise,Nea Community Learning Center,Academy of Alameda,Albany City Unified,Berkeley Unified,Castro Valley Unified,Fremont Unified,Hayward Unified,Leadership Public Schools - Hayward,Impact Academy of Arts & Technology,Golden Oak Montessori of Hayward"
+School,79,<type 'str'>,False,5001,0,0,4221,780,0,0,0,"Washington Middle,Daniel Webster,Willard Elementary,Charles W. Eliot Middle,Woodrow Wilson Middle,Washington Accelerated Elementary,McKinley,Aveson Global Leadership Academy,Aveson School of Leaders,Pasadena Rosebud Academy,Learning Works!,Pomona Unified NPS Students,Lopez Elementary,Cortez Elementary,School of Extended Educational Options,Ganesha High,Garey Senior High,Park West High (Continuation),Pomona Senior High,Pomona Alternative"
