@@ -1,21 +1,34 @@
 """"""
 
-from ambry.bundle.loader import TsvBuildBundle
-from ambry.bundle.rowgen import DelimitedRowGenerator
+from ambry.bundle.loader import LoaderBundle
 
 
-class Bundle(TsvBuildBundle):
+class Bundle(LoaderBundle):
 
-    def row_gen_for_source(self, source_name, use_row_spec = True):
+    
+    @staticmethod
+    def clean_stars(v):
+        
+        if v == '**':
+            return None
+        else:
+            return v
+    
+    def row_mangler(self, source, row_gen, row):
+        """
+        Override this function to alter each row of a source file, just after it is passed out of a Delimited file
+        reader in the DelimitedRowGenerator
+        :param row:
+        :return:
+        """
 
-        source = self.metadata.sources[source_name]
+        if row_gen._header and len(row_gen._header) < len(row):
+            
+            if '\t' in row:
+                raise Exception() # tabs should be handled by filetype in the sources. 
 
-        fn = self.filesystem.download(source_name)
+            i =  len(row_gen._header) -1
+            row = row[:i] + [','.join(row[i:])]
 
-        delimiter = getattr(source, 'filetype', 'csv') == 'csv' and ',' or '\t'
 
-        if fn.endswith('.zip'):
-            sub_file = source.file
-            fn = self.filesystem.unzip(fn, regex=sub_file)
-
-        return DelimitedRowGenerator(fn, delimiter=delimiter, encoding=getattr(source, 'encoding', 'utf-8'))
+        return row
