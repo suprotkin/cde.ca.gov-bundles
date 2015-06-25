@@ -4,12 +4,10 @@ from ambry.bundle.loader import LoaderBundle
 
 
 class Bundle(LoaderBundle):
-
-    
     @staticmethod
     def clean_stars(v):
         
-        if v == '**':
+        if '*' in v:
             return None
         else:
             return v
@@ -21,7 +19,9 @@ class Bundle(LoaderBundle):
         :param row:
         :return:
         """
-
+        # print self.schema
+        # print source, row_gen, row
+        # raise
         if row_gen._header and len(row_gen._header) < len(row):
             
             if '\t' in row:
@@ -29,6 +29,4 @@ class Bundle(LoaderBundle):
 
             i =  len(row_gen._header) -1
             row = row[:i] + [','.join(row[i:])]
-
-
         return row

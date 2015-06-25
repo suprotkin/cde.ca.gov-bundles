@@ -3,65 +3,107 @@ dependencies: {}
 sources:
     grads00:
         description: 1999-2000 Year of Graduate Data
+        table: grads
+        time: 1999/2000
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=1999-00&cCat=Graduates&cPage=filesgrads
     grads01:
         description: 2000-01 Year of Graduate Data
+        table: grads
+        time: 2000/2001
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2000-01&cCat=Graduates&cPage=filesgrads
     grads02:
         description: 2001-02 Year of Graduate Data
+        table: grads
+        time: 2001/2002
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2001-02&cCat=Graduates&cPage=filesgrads
     grads03:
         description: 2002-03 Year of Graduate Data
+        table: grads
+        time: 2002/2003
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2002-03&cCat=Graduates&cPage=filesgrads
     grads04:
         description: 2003-04 Year of Graduate Data
+        table: grads
+        time: 2003/2004
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2003-04&cCat=Graduates&cPage=filesgrads
     grads05:
         description: 2004-05 Year of Graduate Data
+        table: grads
+        time: 2004/2005
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2004-05&cCat=Graduates&cPage=filesgrads
     grads06:
         description: 2005-06 Year of Graduate Data
+        table: grads
+        time: 2005/2006
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2005-06&cCat=Graduates&cPage=filesgrads
     grads07:
         description: 2006-07 Year of Graduate Data
+        table: grads
+        time: 2006/2007
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2006-07&cCat=Graduates&cPage=filesgrads
     grads08:
         description: 2007-08 Year of Graduate Data
+        table: grads
+        time: 2007/2008
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2007-08&cCat=Graduates&cPage=filesgrads
     grads09:
         description: 2008-09 Year of Graduate Data
+        table: grads
+        time: 2008/2009
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2008-09&cCat=Graduates&cPage=filesgrads
     grads10:
         description: 2009-10 Year of Graduate Data
+        table: grads
+        time: 2009/2010
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2009-10&cCat=Graduates&cPage=filesgrads
     grads11:
         description: 2010-11 Year of Graduate Data
+        table: grads
+        time: 2010/2011
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2010-11&cCat=Graduates&cPage=filesgrads
     grads12:
         description: 2012-13 Year of Graduate Data
+        table: grads
+        time: 2012/2013
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2012-13&cCat=Graduates&cPage=filesgrads
     grads14:
         description: 2013-14 Year of Graduate Data
+        table: grads
+        time: 2013/2014
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2013-14&cCat=Graduates&cPage=filesgrads
     grads93:
         description: 1992-93 Year of Graduate Data
+        table: grads
+        time: 1992/1993
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=1992-93&cCat=Graduates&cPage=filesgrads
     grads94:
         description: 1993-94 Year of Graduate Data
+        table: grads
+        time: 1993/1994
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=1993-94&cCat=Graduates&cPage=filesgrads
     grads95:
         description: 1994-95 Year of Graduate Data
+        table: grads
+        time: 1994/1995
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=1994-95&cCat=Graduates&cPage=filesgrads
     grads96:
         description: 1995-96 Year of Graduate Data
+        table: grads
+        time: 1995/1996
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=1995-96&cCat=Graduates&cPage=filesgrads
     grads97:
         description: 1996-97 Year of Graduate Data
+        table: grads
+        time: 1996/1997
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=1996-97&cCat=Graduates&cPage=filesgrads
     grads98:
         description: 1997-98 Year of Graduate Data
+        table: grads
+        time: 1997/1998
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=1997-98&cCat=Graduates&cPage=filesgrads
     grads99:
         description: 1998-99 Year of Graduate Data
+        table: grads
+        time: 1998/1999
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=1998-99&cCat=Graduates&cPage=filesgrads
 views: {}
