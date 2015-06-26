@@ -51,7 +51,7 @@ class UnicodeDelimitedRowGenerator(DelimitedRowGenerator):
 
 
 class Bundle(TsvBuildBundle):
-    def row_gen_for_source(self, source_name, use_row_spec = True):
+    def x_row_gen_for_source(self, source_name, use_row_spec = True):
 
         source = self.metadata.sources[source_name]
 
