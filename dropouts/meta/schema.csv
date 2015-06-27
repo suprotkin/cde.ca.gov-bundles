@@ -1,1 +1,22 @@
-"table","seq","column","is_pk","is_fk","type","size","description"
+table,seq,column,is_pk,is_fk,id,type,size,description
+droupouts,1,id,1,,t000002I01,INTEGER,,Dropouts by Race & Gender 20002001
+droupouts,24,cds_code,,,c000002I0100o,INTEGER64,14,CDS_CODE
+droupouts,25,ethnic,,,c000002I0100p,INTEGER,1,ETHNIC
+droupouts,26,gender,,,c000002I0100q,VARCHAR,1,GENDER
+droupouts,27,e7,,,c000002I0100r,INTEGER,3,E7
+droupouts,28,e8,,,c000002I0100s,INTEGER,3,E8
+droupouts,29,e9,,,c000002I0100t,INTEGER,4,E9
+droupouts,30,e10,,,c000002I0100u,INTEGER,4,E10
+droupouts,31,e11,,,c000002I0100v,INTEGER,3,E11
+droupouts,32,e12,,,c000002I0100w,INTEGER,4,E12
+droupouts,33,eus,,,c000002I0100x,INTEGER,4,EUS
+droupouts,34,etot,,,c000002I0100y,INTEGER,4,ETOT
+droupouts,35,d7,,,c000002I0100z,INTEGER,3,D7
+droupouts,36,d8,,,c000002I0100A,INTEGER,3,D8
+droupouts,37,d9,,,c000002I0100B,INTEGER,3,D9
+droupouts,38,d10,,,c000002I0100C,INTEGER,3,D10
+droupouts,39,d11,,,c000002I0100D,INTEGER,3,D11
+droupouts,40,d12,,,c000002I0100E,INTEGER,3,D12
+droupouts,41,dus,,,c000002I0100F,INTEGER,2,DUS
+droupouts,42,dtot,,,c000002I0100G,INTEGER,4,DTOT
+droupouts,43,year,,,c000002I0100H,INTEGER,4,YEAR

@@ -1,7 +1,142 @@
 build: {}
 dependencies: {}
 sources:
-    example:
-        description: description
-        url: http://example.com
+    droupouts00:
+        description: "Dropouts by Race & Gender 1999\u20132000"
+        filetype: tsv
+        table: droupouts
+        time: 1999/2000
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1999-00&cCat=Dropouts&cPage=filesdropouts
+    droupouts01:
+        description: "Dropouts by Race & Gender 2000\u20132001"
+        filetype: tsv
+        table: droupouts
+        time: 2000/2001
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2000-01&cCat=Dropouts&cPage=filesdropouts
+    droupouts02:
+        description: "Dropouts by Race & Gender 2001\u20132002"
+        filetype: tsv
+        table: droupouts
+        time: 2001/2002
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2001-02&cCat=Dropouts&cPage=filesdropouts
+    droupouts03:
+        description: "Dropouts by Race & Gender 2002\u20132003"
+        filetype: tsv
+        table: droupouts
+        time: 2002/2003
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2002-03&cCat=Dropouts&cPage=filesdropouts
+    droupouts04:
+        description: "Dropouts by Race & Gender 2003\u20132004"
+        filetype: tsv
+        table: droupouts
+        time: 2003/2004
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2003-04&cCat=Dropouts&cPage=filesdropouts
+    droupouts05:
+        description: "Dropouts by Race & Gender 2004\u20132005"
+        filetype: tsv
+        table: droupouts
+        time: 2004/2005
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2004-05&cCat=Dropouts&cPage=filesdropouts
+    droupouts06:
+        description: "Dropouts by Race & Gender 2005\u20132006"
+        filetype: tsv
+        table: droupouts
+        time: 2005/2006
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2005-06&cCat=Dropouts&cPage=filesdropouts
+    droupouts07:
+        description: "Dropouts by Race & Gender 2006\u20132007"
+        filetype: tsv
+        table: droupouts
+        time: 2006/2007
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2006-07&cCat=Dropouts&cPage=filesdropouts
+    droupouts08:
+        description: "Dropouts by Race & Gender 2007\u20132008"
+        filetype: tsv
+        table: droupouts
+        time: 2007/2008
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2007-08&cCat=Dropouts&cPage=filesdropouts
+    droupouts09:
+        description: "Dropouts by Race & Gender 2008\u20132009"
+        filetype: tsv
+        table: droupouts
+        time: 2008/2009
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2008-09&cCat=Dropouts&cPage=filesdropouts
+    droupouts10:
+        description: "Dropouts by Race & Gender 2009\u20132010"
+        filetype: tsv
+        table: droupouts
+        time: 2009/2010
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2009-10&cCat=Dropouts&cPage=filesdropouts
+    droupouts11:
+        description: "Dropouts by Race & Gender 2010\u20132011"
+        filetype: tsv
+        table: droupouts
+        time: 2010/2011
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2010-11&cCat=Dropouts&cPage=filesdropouts
+    droupouts12:
+        description: "Dropouts by Race & Gender 2011\u20132012"
+        filetype: tsv
+        table: droupouts
+        time: 2011/2012
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2011-12&cCat=Dropouts&cPage=filesdropouts
+    droupouts13:
+        description: "Dropouts by Race & Gender 2012\u20132013"
+        filetype: tsv
+        table: droupouts
+        time: 2012/2013
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2012-13&cCat=Dropouts&cPage=filesdropouts
+    droupouts14:
+        description: "Dropouts by Race & Gender 2013\u20132014"
+        filetype: tsv
+        table: droupouts
+        time: 2013/2014
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=2013-14&cCat=Dropouts&cPage=filesdropouts
+    droupouts92:
+        description: "Dropouts by Race & Gender 1991\u201392"
+        filetype: tsv
+        table: droupouts
+        time: 1991/1992
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1991-92&cCat=Dropouts&cPage=filesdropouts
+    droupouts93:
+        description: "Dropouts by Race & Gender 1992\u201393"
+        filetype: tsv
+        table: droupouts
+        time: 1992/1993
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1992-93&cCat=Dropouts&cPage=filesdropouts
+    droupouts94:
+        description: "Dropouts by Race & Gender 1993\u201394"
+        filetype: tsv
+        table: droupouts
+        time: 1993/1994
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1993-94&cCat=Dropouts&cPage=filesdropouts
+    droupouts95:
+        description: "Dropouts by Race & Gender 1994\u201395"
+        filetype: tsv
+        table: droupouts
+        time: 1994/1995
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1994-95&cCat=Dropouts&cPage=filesdropouts
+    droupouts96:
+        description: "Dropouts by Race & Gender 1995\u201396"
+        filetype: tsv
+        table: droupouts
+        time: 1995/1996
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1995-96&cCat=Dropouts&cPage=filesdropouts
+    droupouts97:
+        description: "Dropouts by Race & Gender 1996\u201397"
+        filetype: tsv
+        table: droupouts
+        time: 1996/1997
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1996-97&cCat=Dropouts&cPage=filesdropouts
+    droupouts98:
+        description: "Dropouts by Race & Gender 1997\u201398"
+        filetype: tsv
+        table: droupouts
+        time: 1997/1998
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1997-98&cCat=Dropouts&cPage=filesdropouts
+    droupouts99:
+        description: "Dropouts by Race & Gender 1998\u201399"
+        filetype: tsv
+        table: droupouts
+        time: 1998/1999
+        url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=School&cYear=1998-99&cCat=Dropouts&cPage=filesdropouts
 views: {}

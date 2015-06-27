@@ -1,18 +1,19 @@
 about:
-    access: null
+    access: example
     footnote: null
     grain: null
     groups: []
-    license: null
+    license: public
     processed: null
     rights: null
     source: null
     space: null
     subject: null
-    summary: null
+    summary: Grade seven through twelve dropouts and enrollment by race/ethnic designation
+        and gender by school
     tags: []
-    time: null
-    title: null
+    time: 1992/2014
+    title: Dropouts by Race & Gender
 contact_bundle:
     creator:
         email: roman.suprotkin@developex.org
@@ -27,10 +28,11 @@ contact_source:
     maintainer: {}
 external_documentation:
     dataset:
-        description: Main webpage for the dataset.
+        description: Downloadable data files for grade seven through twelve dropouts
+            and enrollment by race/ethnic designation and gender by school.
         source: null
-        title: Dataset Page
-        url: http://example.com
+        title: Dropouts by Race & Gender
+        url: http://www.cde.ca.gov/ds/sd/sd/filesdropouts.asp
     documentation:
         description: The primary documentation file
         source: null
