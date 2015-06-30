@@ -4,7 +4,7 @@ dependencies: {}
 sources:
     cohort10:
         description: data for 2009-10
-        filetype: csv
+        filetype: tsv
         row_spec:
             data_start_line: 1
             header_lines:
@@ -15,7 +15,7 @@ sources:
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2009-10&cCat=Cohort&cPage=filescohort
     cohort11:
         description: data for 2010-11
-        filetype: csv
+        filetype: tsv
         row_spec:
             data_start_line: 1
             header_lines:
@@ -26,7 +26,7 @@ sources:
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2010-11&cCat=Cohort&Cpage=filescohort
     cohort12:
         description: data for 2011-12
-        filetype: csv
+        filetype: tsv
         row_spec:
             data_start_line: 1
             header_lines:
@@ -37,7 +37,7 @@ sources:
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2011-12&cCat=Cohort&Cpage=filescohort
     cohort13:
         description: data for 2012-13
-        filetype: csv
+        filetype: tsv
         row_spec:
             data_start_line: 1
             header_lines:
@@ -48,7 +48,7 @@ sources:
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2012-13&cCat=Cohort&Cpage=filescohort
     cohort14:
         description: data for 2013-14
-        filetype: csv
+        filetype: tsv
         row_spec:
             data_start_line: 1
             header_lines:
