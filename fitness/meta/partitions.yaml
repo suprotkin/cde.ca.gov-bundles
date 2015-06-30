@@ -1,0 +1,6 @@
+-   name: cde.ca.gov-fitness-subgroups
+    table: subgroups
+-   name: cde.ca.gov-fitness-entities
+    table: entities
+-   name: cde.ca.gov-fitness-physfit
+    table: physfit
