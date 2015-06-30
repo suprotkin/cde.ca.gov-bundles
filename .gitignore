@@ -16,7 +16,7 @@ develop-eggs
 .installed.cfg
 lib64
 __pycache__
-
+build
 # Installer logs
 pip-log.txt
 
