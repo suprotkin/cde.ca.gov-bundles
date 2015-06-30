@@ -10,8 +10,8 @@ sources:
             header_lines:
             - 0
         space: California
-        time: 2010
         table: cohort
+        time: 2010
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2009-10&cCat=Cohort&cPage=filescohort
     cohort11:
         description: data for 2010-11
@@ -27,12 +27,12 @@ sources:
     cohort12:
         description: data for 2011-12
         filetype: csv
-        table: cohort
         row_spec:
             data_start_line: 1
             header_lines:
             - 0
         space: California
+        table: cohort
         time: 2012
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2011-12&cCat=Cohort&Cpage=filescohort
     cohort13:
@@ -43,8 +43,8 @@ sources:
             header_lines:
             - 0
         space: California
-        time: 2013
         table: cohort
+        time: 2013
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2012-13&cCat=Cohort&Cpage=filescohort
     cohort14:
         description: data for 2013-14
@@ -54,7 +54,7 @@ sources:
             header_lines:
             - 0
         space: California
-        time: 2014
         table: cohort
+        time: 2014
         url: http://dq.cde.ca.gov/dataquest/dlfile/dlfile.aspx?cLevel=All&cYear=2013-14&cCat=Cohort&Cpage=filescohort
 views: {}

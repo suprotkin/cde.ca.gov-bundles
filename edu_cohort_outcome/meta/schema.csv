@@ -1,7 +1,7 @@
 table,seq,column,is_pk,is_fk,id,type,size,description
 cohort,1,id,1,,t000002G01,INTEGER,,data for 2012-13
-cohort,6,cds,,,c000002G01006,INTEGER,,CDS
-cohort,7,name,,,c000002G01007,VARCHAR,80,Name
+cohort,6,cds,,,c000002G01006,INTEGER64,14,CDS
+cohort,7,name,,,c000002G01007,VARCHAR,84,Name
 cohort,8,agglevel,,,c000002G01008,VARCHAR,1,AggLevel
 cohort,9,dfc,,,c000002G01009,VARCHAR,1,DFC
 cohort,10,subgroup,,,c000002G0100a,VARCHAR,3,Subgroup
@@ -17,4 +17,4 @@ cohort,19,numstillenrolled,,,c000002G0100j,VARCHAR,5,NumStillEnrolled
 cohort,20,still_enrolled_rate,,,c000002G0100k,REAL,,Still Enrolled Rate
 cohort,21,numged,,,c000002G0100l,VARCHAR,4,NumGED
 cohort,22,ged_rate,,,c000002G0100m,REAL,,GED Rate
-cohort,23,year,,,c000002G0100n,INTEGER,,Year
+cohort,23,year,,,c000002G0100n,INTEGER,4,Year
