@@ -1,7 +1,0 @@
-name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
-SubGrp,2,<type 'int'>,False,151,151,0,0,0,0,0,0,
-RptType,1,<type 'int'>,False,151,151,0,0,0,0,0,0,
-LineNum,1,<type 'int'>,False,151,151,0,0,0,0,0,0,
-ReportType,28,<type 'str'>,False,151,0,0,151,0,0,0,0,"Physical Fitness Areas,Meeting Healthy Fitness Zone,Gender And Ethnic Summary"
-SubGroup,30,<type 'str'>,False,151,0,0,151,0,0,0,0,"All Students,Gender,Female,Male,Ethnicity,American Indian/Alaskan Native,Asian/Asian American,Pacific Islander,Filipino/Filipino American,Hispanic/Latino,African American,White - Not of Hispanic Origin"
-Line_Text,30,<type 'str'>,False,151,0,0,151,0,0,0,0,"Aerobic Capacity,Body Composition,Abdominal Strength,Trunk Extension Strength,Upper Body Strength,Flexibility,6 of 6 fitness standards,5 of 6 fitness standards,4 of 6 fitness standards,3 of 6 fitness standards,2 of 6 fitness standards,1 of 6 fitness standards,0 of 6 fitness standards,Total tested,Females,Males,No Gender Information,African/African American,American Indian/Alaskan Native,Asian/Asian American"

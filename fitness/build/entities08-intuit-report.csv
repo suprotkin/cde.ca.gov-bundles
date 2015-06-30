@@ -1,9 +1,0 @@
-name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
-Ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-Dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-charternum,4,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-Scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-cds_code,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-County,12,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda,Alpine,Amador,Butte,Calaveras,Colusa,Contra Costa,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen,Los Angeles"
-District,30,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda County,FAME Public Charter,California School for the Deaf,Alameda City Unified,Albany City Unified,Berkeley Unified,Castro Valley Unified,Emery Unified,Fremont Unified,Hayward Unified,Livermore Valley Joint Unified,Newark Unified,New Haven Unified,Oakland Unified,Oakland Charter Academy,E. Bay Consv. Corps Char,American Indian Pub. Char,Reems (E.C.) Academy,Huerta (Dolores) Learning Acad"
-school,30,<type 'str'>,False,5001,0,0,4362,639,0,0,0,"Kelly Elementary,Laurel Street Elementary,Rosecrans Elementary,Tibby Elementary,Willard (Frances) Elem,Bunche (Ralph) Elementary,Anderson Elementary,King (Martin Luther) Elementar,Bunche Middle,Enterprise Middle,Vanguard Learning Center,Whaley Middle,Willowbrook Middle,Roosevelt Middle,Walton Middle,Davis Middle,Compton Comm. Day Middle,Clinton, William Jefferson,Puente Hills High, Alter.,La Puente High"

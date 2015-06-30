@@ -1,8 +1,0 @@
-name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
-Ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-Dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-Scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-cds_code,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-County,14,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda,Amador,Butte,Calaveras,Colusa,Contra Costa,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen,Los Angeles,Madera"
-District,60,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda County,California School for the Deaf-Fremont (State Special Schl),Alameda City Unified,Albany City Unified,Berkeley Unified,Castro Valley Unified,Emery Unified,Fremont Unified,Hayward Unified,Livermore Valley Joint Unified,Newark Unified,New Haven Unified,Oakland Unified,Piedmont City Unified,San Leandro Unified,San Lorenzo Unified,Dublin Unified,Pleasanton Unified,Amador County"
-School,60,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"James Irvine Intermediate,Enders Elementary,John Marshall Elementary,John Murdy Elementary,Dr. Walter C. Ralston Intermediate,Leo Carrillo Elementary,Leroy L. Doig Intermediate,Linton T. Simmons Elementary,Louis G. Zeyen Elementary,Loyal Barker Elementary,Mabel Carver Elementary,Louis Lake Intermediate,Merton E. Hill Elementary,Morningside Elementary,Newhope Elementary,Ocia A. Peters Elementary,Parkview Elementary,Post Elementary,R. F. Hazard Elementary,Riverdale Elementary"

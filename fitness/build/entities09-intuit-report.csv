@@ -1,9 +1,0 @@
-name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
-Ccode,2,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-Dcode,5,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-charternum,4,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-Scode,7,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-cds_code,14,<type 'int'>,False,5001,5001,0,0,0,0,0,0,
-County,12,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda,Alpine,Amador,Butte,Calaveras,Colusa,Contra Costa,Del Norte,El Dorado,Fresno,Glenn,Humboldt,Imperial,Inyo,Kern,Kings,Lake,Lassen,Los Angeles"
-District,30,<type 'str'>,False,5001,0,0,5001,0,0,0,0,"Statewide,Alameda County,Alameda County Office of Educa,FAME Public Charter,Envision Academy for Arts,Aspire California College Prep,California School for the Blin,California School for the Deaf,Alameda City Unified,Alameda Comm Learning,Bay Area School,Albany City Unified,Berkeley Unified,Castro Valley Unified,Emery Unified,Fremont Unified,Hayward Unified,Leadership Public Schools,Livermore Valley Joint Unified,Newark Unified"
-school,35,<type 'str'>,False,5001,0,0,4272,729,0,0,0,"Arnold (Joseph) Elementary,Calle Mayor Middle,Carr (Evelyn) Elementary,Casimir Middle,Fern Elementary,Lynn (Bert M.) Middle,Hickory Elementary,Jefferson Middle,Madrona Middle,Magruder (Philip) Middle,Richardson (Edward J.) Mi,Riviera Elementary,Seaside Elementary,Torrance Elementary,Towers Elementary,Victor Elementary,Walteria Elementary,Wood (Howard) Elementary,Yukon Elementary,Hull (J. H.) Middle"

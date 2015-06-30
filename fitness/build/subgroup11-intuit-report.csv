@@ -1,8 +1,0 @@
-name,length,resolved_type,has_codes,count,ints,floats,strs,nones,datetimes,dates,times,strvals
-Level_Number,1,<type 'int'>,False,1068,1068,0,0,0,0,0,0,
-Report_Number,2,<type 'int'>,False,1068,1068,0,0,0,0,0,0,
-Table_Number,1,<type 'int'>,False,1068,1068,0,0,0,0,0,0,
-Line_Number,1,<type 'int'>,False,1068,1068,0,0,0,0,0,0,
-Line_Text,35,<type 'str'>,False,1068,0,0,1068,0,0,0,0,"Aerobic Capacity,Body Composition,Abdominal Strength,Trunk Extension Strength,Upper Body Strength,Flexibility,Aerobic Capacity 2011,Body Composition 2011,Aerobic Capacity 2010,Body Composition 2010,6 of 6 fitness standards,5 of 6 fitness standards,4 of 6 fitness standards,3 of 6 fitness standards,2 of 6 fitness standards,1 of 6 fitness standards,0 of 6 fitness standards,Total tested,Females,Males"
-Table_Type,28,<type 'str'>,False,1068,0,0,1068,0,0,0,0,"Physical Fitness Areas,Physical Fitness Comparisons,Meeting Healthy Fitness Zone,Gender Summary,Race/Ethnicity Summary,Economic Summary"
-Subgroup,47,<type 'str'>,False,1068,0,0,1068,0,0,0,0,"All Students,Female,Male,Black or African American,American Indian or Alaska Native,Asian,Filipino,Hispanic,Native Hawaiian or Pacific Islander,White,Two or more races,Economically Disadvantaged,Not Economically Disadvantaged,No Economic Information,Subgroup results - Gender Summary Report,Subgroup results - Race/Ethnicity Sumary Report,Subgroup results - Economic Summary Report"
