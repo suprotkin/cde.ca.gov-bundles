@@ -1,46 +1,46 @@
-name,title,table,segment,time,space,grain,start_line,end_line,comment_lines,header_lines,description,url,ref
-entities01,,entities,,2001,,,,,,,2001 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip,
-entities02,,entities,,2002,,,,,,,2002 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip,
-entities03,,entities,,2003,,,,,,,2003 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip,
-entities04,,entities,,2004,,,,,,,2004 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip,
-entities05,,entities,,2005,,,,,,,2005 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip,
-entities06,,entities,,2006,,,,,,,2006 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip,
-entities07,,entities,,2007,,,,,,,2007 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip,
-entities08,,entities,,2008,,,,,,,2008 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip,
-entities09,,entities,,2009,,,,,,,2009 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip,
-entities10,,entities,,2010,,,,,,,2010 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip,
-entities11,,entities,,2011,,,,,,,2011 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip,
-entities12,,entities,,2011/2012,,,,,,,2011–12 Physical Fitness Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip,
-entities13,,entities,,2012/2013,,,,,,,2012–13 Physical Fitness Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip,
-entities14,,entities,,2013/2014,,,,,,,2013–14 Physical Fitness Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip,
-entities99,,entities,,1999,,,,,,,1999 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip,
-physfit01,,physfit,,2001,,,,,,,2001 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip,
-physfit02,,physfit,,2002,,,,,,,2002 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip,
-physfit03,,physfit,,2003,,,,,,,2003 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip,
-physfit04,,physfit,,2004,,,,,,,2004 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip,
-physfit05,,physfit,,2005,,,,,,,2005 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip,
-physfit06,,physfit,,2006,,,,,,,2006 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip,
-physfit07,,physfit,,2007,,,,,,,2007 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip,
-physfit08,,physfit,,2008,,,,,,,2008 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip,
-physfit09,,physfit,,2009,,,,,,,2009 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip,
-physfit10,,physfit,,2010,,,,,,,2010 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip,
-physfit11,,physfit,,2011,,,,,,,2011 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip,
-physfit12,,physfit,,2011/2012,,,,,,,2011–12 Physical Fitness Research,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip,
-physfit13,,physfit,,2012/2013,,,,,,,2012–13 Physical Fitness Research,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip,
-physfit14,,physfit,,2013/2014,,,,,,,2013–14 Physical Fitness Research,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip,
-physfit99,,physfit,,1999,,,,,,,1999 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip,
-subgroup01,,subgroups,,2001,,,,,,,2001 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip,
-subgroup02,,subgroups,,2002,,,,,,,2002 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip,
-subgroup03,,subgroups,,2003,,,,,,,2003 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip,
-subgroup04,,subgroups,,2004,,,,,,,2004 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip,
-subgroup05,,subgroups,,2005,,,,,,,2005 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip,
-subgroup06,,subgroups,,2006,,,,,,,2006 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip,
-subgroup07,,subgroups,,2007,,,,,,,2007 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip,
-subgroup08,,subgroups,,2008,,,,,,,2008 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip,
-subgroup09,,subgroups,,2009,,,,,,,2009 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip,
-subgroup10,,subgroups,,2010,,,,,,,2010 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip,
-subgroup11,,subgroups,,2011,,,,,,,2011 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip,
-subgroup12,,subgroups,,2011/2012,,,,,,,2011–12 Physical Fitness Subgroups,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip,
-subgroup13,,subgroups,,2012/2013,,,,,,,2012–13 Physical Fitness Subgroups,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip,
-subgroup14,,subgroups,,2013/2014,,,,,,,2013–14 Physical Fitness Subgroups,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip,
-subgroup99,,subgroups,,1999,,,,,,,1999 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip,
+name,title,table,segment,time,space,grain,start_line,end_line,comment_lines,header_lines,description,url,ref,filetype
+entities11,,entities_10_14,,2011,,,,,,,2011 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip,,csv
+entities12,,entities_10_14,,2011/2012,,,,,,,2011–12 Physical Fitness Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip,,tsv
+entities13,,entities_10_14,,2012/2013,,,,,,,2012–13 Physical Fitness Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip,,tsv
+entities14,,entities_10_14,,2013/2014,,,,,,,2013–14 Physical Fitness Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip,,tsv
+entities01,,entities_99_10,,2001,,,,,,,2001 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip,,csv
+entities02,,entities_99_10,,2002,,,,,,,2002 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip,,csv
+entities03,,entities_99_10,,2003,,,,,,,2003 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip,,csv
+entities04,,entities_99_10,,2004,,,,,,,2004 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip,,csv
+entities05,,entities_99_10,,2005,,,,,,,2005 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip,,csv
+entities06,,entities_99_10,,2006,,,,,,,2006 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip,,csv
+entities07,,entities_99_10,,2007,,,,,,,2007 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip,,csv
+entities08,,entities_99_10,,2008,,,,,,,2008 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip,,csv
+entities09,,entities_99_10,,2009,,,,,,,2009 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip,,csv
+entities10,,entities_99_10,,2010,,,,,,,2010 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip,,csv
+entities99,,entities_99_10,,1999,,,,,,,1999 PFT Entities,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip,,csv
+physfit11,,physfit_10_14,,2011,,,,,,,2011 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip,,csv
+physfit12,,physfit_10_14,,2011/2012,,,,,,,2011–12 Physical Fitness Research,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip,,tsv
+physfit13,,physfit_10_14,,2012/2013,,,,,,,2012–13 Physical Fitness Research,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip,,tsv
+physfit14,,physfit_10_14,,2013/2014,,,,,,,2013–14 Physical Fitness Research,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip,,csv
+physfit01,,physfit_99_10,,2001,,,,,,,2001 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip,,csv
+physfit02,,physfit_99_10,,2002,,,,,,,2002 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip,,csv
+physfit03,,physfit_99_10,,2003,,,,,,,2003 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip,,csv
+physfit04,,physfit_99_10,,2004,,,,,,,2004 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip,,csv
+physfit05,,physfit_99_10,,2005,,,,,,,2005 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip,,csv
+physfit06,,physfit_99_10,,2006,,,,,,,2006 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip,,csv
+physfit07,,physfit_99_10,,2007,,,,,,,2007 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip,,csv
+physfit08,,physfit_99_10,,2008,,,,,,,2008 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip,,csv
+physfit09,,physfit_99_10,,2009,,,,,,,2009 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip,,csv
+physfit10,,physfit_99_10,,2010,,,,,,,2010 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip,,csv
+physfit99,,physfit_99_10,,1999,,,,,,,1999 PFT Fitness Results,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip,,csv
+subgroup11,,subgroups_10_14,,2011,,,,,,,2011 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles11.zip,,csv
+subgroup12,,subgroups_10_14,,2011/2012,,,,,,,2011–12 Physical Fitness Subgroups,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles12.zip,,tsv
+subgroup13,,subgroups_10_14,,2012/2013,,,,,,,2012–13 Physical Fitness Subgroups,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles13.zip,,tsv
+subgroup14,,subgroups_10_14,,2013/2014,,,,,,,2013–14 Physical Fitness Subgroups,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles14.zip,,csv
+subgroup01,,subgroups_99_10,,2001,,,,,,,2001 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles01.zip,,csv
+subgroup02,,subgroups_99_10,,2002,,,,,,,2002 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles02.zip,,csv
+subgroup03,,subgroups_99_10,,2003,,,,,,,2003 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles03.zip,,csv
+subgroup04,,subgroups_99_10,,2004,,,,,,,2004 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles04.zip,,csv
+subgroup05,,subgroups_99_10,,2005,,,,,,,2005 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles05.zip,,csv
+subgroup06,,subgroups_99_10,,2006,,,,,,,2006 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles06.zip,,csv
+subgroup07,,subgroups_99_10,,2007,,,,,,,2007 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles07.zip,,csv
+subgroup08,,subgroups_99_10,,2008,,,,,,,2008 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles08.zip,,csv
+subgroup09,,subgroups_99_10,,2009,,,,,,,2009 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles09.zip,,csv
+subgroup10,,subgroups_99_10,,2010,,,,,,,2010 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles10.zip,,csv
+subgroup99,,subgroups_99_10,,1999,,,,,,,1999 PFT Subgroup,http://www3.cde.ca.gov/pftresearchfiles/pftresearchfiles99.zip,,csv
