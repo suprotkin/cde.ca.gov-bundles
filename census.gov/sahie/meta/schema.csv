@@ -1,0 +1,20 @@
+table,seq,column,is_pk,is_fk,id,type,size,description,d_caster,d_has_codes
+sahie,1,id,1,,tNhLHSiK8c01,INTEGER,,"Model-based Small Area Health Insurance Estimates (SAHIE) for Counties and States, 2011",,
+sahie,6,year,,,cNhLHSiK8c01006,INTEGER,4,year,,
+sahie,7,stcou,,,cNhLHSiK8c01007,VARCHAR,8,stcou,,
+sahie,8,geocat,,,cNhLHSiK8c01008,INTEGER,2,geocat,,
+sahie,9,agecat,,,cNhLHSiK8c01009,INTEGER,1,agecat,,
+sahie,10,racecat,,,cNhLHSiK8c0100a,INTEGER,1,racecat,,
+sahie,11,sexcat,,,cNhLHSiK8c0100b,INTEGER,1,sexcat,,
+sahie,12,iprcat,,,cNhLHSiK8c0100c,INTEGER,1,iprcat,,
+sahie,13,name,,,cNhLHSiK8c0100d,VARCHAR,50,name,,
+sahie,14,nipr,,,cNhLHSiK8c0100e,INTEGER,8,nipr,clean_na,1
+sahie,15,nipr_moe,,,cNhLHSiK8c0100f,INTEGER,5,nipr_moe,clean_na,1
+sahie,16,nui,,,cNhLHSiK8c0100g,INTEGER,7,nui,clean_na,1
+sahie,17,nui_moe,,,cNhLHSiK8c0100h,INTEGER,5,nui_moe,clean_na,1
+sahie,18,nic,,,cNhLHSiK8c0100i,INTEGER,8,nic,clean_na,1
+sahie,19,nic_moe,,,cNhLHSiK8c0100j,INTEGER,5,nic_moe,clean_na,1
+sahie,20,pctui,,,cNhLHSiK8c0100k,REAL,,pctui,clean_na,1
+sahie,21,pctui_moe,,,cNhLHSiK8c0100l,REAL,,pctui_moe,clean_na,1
+sahie,22,pctic,,,cNhLHSiK8c0100m,REAL,,pctic,clean_na,1
+sahie,23,pctic_moe,,,cNhLHSiK8c0100n,REAL,,pctic_moe,clean_na,1
